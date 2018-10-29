@@ -1,0 +1,18 @@
+CREATE TABLE participation(
+	program STRING,
+  pdSpots INTEGER,
+  cmSpots INTEGER,
+  description INTEGER
+);
+
+INSERT INTO participation(program, pdSpots, cmSpots, description)
+VALUES ("Special Projects", 2, 7, 1);
+
+INSERT INTO participation(program, pdSpots, cmSpots, description)
+VALUES ("Student Outreach", 3, 10, 3);
+
+INSERT INTO participation(program, pdSpots, cmSpots, description)
+VALUES ("Recruitment", 2, 15, 4);
+
+SELECT *
+FROM participation;

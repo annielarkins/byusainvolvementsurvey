@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>BYUSA Results</title>
+    <title>BYUSA Results Page</title>
   </head>
   <body>
     <?php

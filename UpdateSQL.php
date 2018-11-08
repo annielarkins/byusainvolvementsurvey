@@ -21,7 +21,14 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "{INSERT UPDATE CODE HERE}";
+$programName = GetURLVariables("programName");
+$cmSpots = GetURLVariables("cmSpots");
+$pdSpots = GetURLVariables("pdSpots");
+
+
+$sql = "UPDATE participation
+SET pdSpots = " . $pdSpots . ", cmSpots = " . $cmSpots . 
+"WHERE program = " . $programName . ";";
 
 if ($conn->query($sql) === TRUE) {
     echo "Record updated successfully";

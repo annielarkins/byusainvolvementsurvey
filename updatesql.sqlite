@@ -3,5 +3,5 @@ https://www.w3schools.com/sql/sql_update.asp
 */
 
 UPDATE participation
-SET column1 = value1, column2 = value2
-WHERE condition;
+SET pdSpots = VARIABLE1, cmSpots = VARIABLE2
+WHERE program = VARIABLE3;

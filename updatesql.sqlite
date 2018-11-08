@@ -2,6 +2,14 @@
 https://www.w3schools.com/sql/sql_update.asp 
 */
 
+DECLARE v_newPdSpots INTEGER;
+DECLARE v_newCmSpots INTEGER;
+DECLARE v_program STRING;
+
+SET v_newPdSpots = 0;
+SET v_newCmSpots = 0;
+SET v_program = "test";
+
 UPDATE participation
-SET pdSpots = VARIABLE1, cmSpots = VARIABLE2
-WHERE program = VARIABLE3;
+SET pdSpots = v_newPdSpots, cmSpots = v_newCmSpots
+WHERE program = v_program;

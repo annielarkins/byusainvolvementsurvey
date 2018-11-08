@@ -2,6 +2,6 @@
 https://www.w3schools.com/sql/sql_update.asp 
 */
 
-UPDATE table_name
+UPDATE participation
 SET column1 = value1, column2 = value2
 WHERE condition;

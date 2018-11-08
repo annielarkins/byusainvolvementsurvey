@@ -1,5 +1,6 @@
 /*
 https://www.w3schools.com/sql/sql_update.asp 
+https://www.ibm.com/support/knowledgecenter/en/SS6NHC/com.ibm.swg.im.dashdb.apdv.sqlpl.doc/doc/c0020497.html
 */
 
 DECLARE v_newPdSpots INTEGER;

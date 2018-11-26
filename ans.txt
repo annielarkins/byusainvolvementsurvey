@@ -1,0 +1,10 @@
+Hello @Rahul ,
+
+Solution using php and Qualtrics api 
+
+Step 1: Get the response of survey in csv format by following [this link ](https://api.qualtrics.com/docs/create-response-export "this link ") and implement it using  curl in php 
+
+Step 2: Follow [this link](https://stackoverflow.com/questions/937912/writing-a-php-file-to-read-from-csv-and-execute-sql-query "this link") and implement same in the same php file.
+
+Step 3: Now you have a php file which will pull the response(using step 1) and put into sql(using step 2). You can run this when you want it. 
+In order to schedule it you can use [cron jobs](http://code.tutsplus.com/tutorials/managing-cron-jobs-with-php--net-19428 "cron jobs") in php

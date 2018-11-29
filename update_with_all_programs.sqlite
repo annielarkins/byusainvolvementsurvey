@@ -1,0 +1,77 @@
+INSERT INTO participation VALUES ("Clubs", 12, "Involvement Fair", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 13, "Clubs Night", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 14, "Care Week", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 15, "Clubs Showcase", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 16, "President's Seminar", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 17, "President's Banquet", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 18, "Volunteer Appreciation / Clubs Retreat", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 19, "United Clubs Council", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Clubs", 20, "Clubs Advertising", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 21, "Brigham Awards", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 22, "Freshman Honor", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 23, "Honor Campaign", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 24, "Honor Day", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 25, "Honor Week", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 26, "Honor Run", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 27, "NSO (Fall/Winter)", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 28, "Service Squad", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Honor", 29, "Y-Wishes", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Advisory Council", 30, "Student Voice", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Advisory Council", 31, "Awareness & Outreach", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Student Advisory Council", 32, "The Student Advisory Council", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Y-Activities", 33, "Event Team 1", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Y-Activities", 34, "Event Team 2", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Y-Activities", 35, "Event Team 3", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("AIM Activities", 36, "Event Team 1", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("AIM Activities", 37, "Event Team 2", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("AIM Activities", 38, "Event Team 3", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("AIM Activities", 39, "Event Team 4", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 40, "Social Media", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 41, "Public Relations / Brand Research", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 42, "Photo & Video", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 43, "Historical Record", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 44, "Light the World", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 45, "Be Devoted", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 46, "Mental Health Matters", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 47, "Pen Talks", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 48, "Student Resources", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 49, "Drive Safe", 0, 0, 0, 0);
+
+INSERT INTO participation VALUES ("Communications", 50, "30 Years of BYUSA", 0, 0, 0, 0);
